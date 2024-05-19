@@ -6,9 +6,7 @@ This is a demo pet adoption page and my first mini project in web development. T
 Features:
 
 Simple and clean layout for easy navigation.
-
 Detailed profiles of two pets, showcasing their unique characteristics.
-
 Basic HTML and CSS used to create an engaging and user-friendly interface.
 
 Objective:
